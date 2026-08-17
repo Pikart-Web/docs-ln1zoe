@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-jmz6fy.pulaucuanwin.sbs/sitemap.xml
